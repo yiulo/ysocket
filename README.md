@@ -1,5 +1,5 @@
 # ysocket<br>
-c/c++ socket 简化<br>
+c/c++ socket UDP 简化<br>
 
 使用方法：<br>
 (客户端)<br>
